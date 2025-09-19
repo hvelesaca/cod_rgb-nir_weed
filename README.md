@@ -1,3 +1,5 @@
-# Early Detection of Camouflaged Weeds in Agriculture using Near-Infrared
+# Unveiling the Hidden: Early Detection of Invasive
+
+Vegetation in Crops with UAV Multispectral Imaging
 
 Dataset: https://www.kaggle.com/datasets/hvelesaca/weedbananacod
