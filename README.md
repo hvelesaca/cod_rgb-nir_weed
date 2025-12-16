@@ -4,4 +4,6 @@ This work presents a comprehensive framework for the early detection of camoufla
 ![pipeline](pipeline.png) <br>
 
 # Dataset
+Orthomosaic RGB/NIR images, Mask annotation, and train/test/val patches set are available in Kaggle: 
+
 https://www.kaggle.com/datasets/hvelesaca/weedbananacod
